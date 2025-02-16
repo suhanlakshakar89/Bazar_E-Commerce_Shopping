@@ -5,8 +5,8 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 
-import Profile from "./pages/profile"; 
-import Menu from "./pages/menu";
+import Profile from "./pages/Profile"; 
+import Menu from "./pages/Menu";
 import History from "./pages/History"; 
 import First_work from "./pages/First_work";
 

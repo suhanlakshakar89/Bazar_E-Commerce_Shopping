@@ -9,7 +9,8 @@ import Img7 from '../assets/ovenjpeg.jpeg'
 import Img8 from '../assets/genretor.jpg'
 import Img9 from '../assets/bowl.jpeg' 
 import Img10 from '../assets/Cattle.avif'
-import Img11 from '../assets/cattle.jpg'
+import Img11 from '../assets/Cattle.jpg'
+// import cattleImage from "../../assets/cattle.jpg";
 import Img12 from '../assets/women_1.jpg'
 import Img13 from '../assets/women_1.jpg'
 
